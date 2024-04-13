@@ -1,0 +1,3 @@
+[submodule "colors/start/one"]
+	path = colors/start/one
+	url = https://github.com/rakr/vim-one.git
